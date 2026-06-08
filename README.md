@@ -126,5 +126,5 @@ java Breakout
 
 ## Contributors
 
-1. Soniya Mubasshir Hiya — 2023831010  
-2. Samia Rahman — 2023831046  
+1. Soniya Mubasshir Hiya_2023831010  
+2. Samia Rahman_2023831046  
