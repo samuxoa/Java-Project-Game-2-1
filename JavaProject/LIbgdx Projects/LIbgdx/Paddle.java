@@ -24,7 +24,7 @@ public class Paddle {
             x -= 5;
     }
 
-    // Overloaded
+    // Overloaded method
     public void moveLeft(int speed) {
         if (x > 10)
             x -= speed;
